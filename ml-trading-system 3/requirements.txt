@@ -1,0 +1,13 @@
+numpy
+pandas
+yfinance
+scikit-learn
+imbalanced-learn
+lightgbm
+xgboost
+catboost
+optuna
+torch
+matplotlib
+seaborn
+pytest
