@@ -73,7 +73,7 @@ Output metrics: total/annualized return, Sharpe, Sortino, Calmar, max drawdown, 
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/ml-trading-system.git
+git clone https://github.com/<cm5git>/ml-trading-system.git
 cd ml-trading-system
 
 python -m venv venv
